@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Claude Code 任务卷轴 · 游戏化文档</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+<style>
+:root{
+  --bg:#0b0e14; --panel:#121722; --panel2:#0f131d; --line:#232b3b;
+  --gold:#f5c542; --xp:#7c5cff; --hp:#ff5c7a; --ok:#3ddc97; --cyan:#4dd0e1;
+  --text:#e8ecf4; --dim:#8b94a7;
+  --font-pixel:"Courier New",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:system-ui,"PingFang SC","Microsoft YaHei",sans-serif;margin:0;
+  background-image:radial-gradient(ellipse 80% 50% at 50% -10%,rgba(124,92,255,.18),transparent),
+  repeating-linear-gradient(0deg,transparent 0 2px,rgba(255,255,255,.012) 2px 4px);}
+a{color:var(--cyan)}
+h1,h2,h3{color:var(--gold);font-family:var(--font-pixel);letter-spacing:.5px}
+button.btn{font-family:var(--font-pixel);border:1px solid var(--line);background:var(--panel);color:var(--text);
+  padding:.45rem .9rem;border-radius:6px;cursor:pointer;font-size:.85rem}
+button.btn:hover{border-color:var(--gold);color:var(--gold)}
+button.btn.primary{background:linear-gradient(135deg,#7c5cff,#4dd0e1);border:none;color:#fff;font-weight:700}
+
+/* ===== 顶部 HUD ===== */
+#hud{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:1rem;padding:.6rem 1rem;
+  background:rgba(11,14,20,.92);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+#hud .logo{font-family:var(--font-pixel);color:var(--gold);font-weight:700;white-space:nowrap}
+#hud .logo span{color:var(--cyan)}
+#xpbar{flex:1;height:14px;background:var(--panel2);border:1px solid var(--line);border-radius:8px;overflow:hidden;position:relative;min-width:120px}
+#xpbar i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--xp),var(--cyan));transition:width .6s}
+#xpbar b{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:.65rem;font-family:var(--font-pixel);color:#fff;text-shadow:0 1px 2px #000}
+#lv{font-family:var(--font-pixel);color:var(--gold);white-space:nowrap;font-size:.85rem}
+#coins{font-family:var(--font-pixel);color:var(--ok);white-space:nowrap;font-size:.85rem}
+
+/* ===== 布局 ===== */
+#wrap{display:grid;grid-template-columns:280px 1fr;min-height:calc(100vh - 52px)}
+@media(max-width:900px){#wrap{grid-template-columns:1fr}#side{position:fixed;left:-300px;top:52px;bottom:0;z-index:40;transition:left .3s;width:280px}#side.open{left:0}}
+#side{background:var(--panel2);border-right:1px solid var(--line);overflow-y:auto;padding:1rem .6rem 4rem}
+#side details{margin-bottom:.4rem}
+#side summary{cursor:pointer;font-family:var(--font-pixel);font-size:.8rem;color:var(--dim);padding:.35rem .5rem;border-radius:6px;list-style:none}
+#side summary::before{content:"▸ ";color:var(--xp)}
+#side details[open] summary::before{content:"▾ "}
+#side summary:hover{color:var(--gold);background:var(--panel)}
+#side a.q{display:flex;align-items:center;gap:.5rem;padding:.4rem .5rem .4rem 1.2rem;color:var(--text);
+  text-decoration:none;font-size:.82rem;border-radius:6px;border-left:2px solid transparent}
+#side a.q:hover{background:var(--panel)}
+#side a.q.active{background:var(--panel);border-left-color:var(--gold);color:var(--gold)}
+#side a.q .st{font-size:.9rem}
+#main{padding:1.5rem clamp(1rem,4vw,3rem) 6rem;max-width:980px;overflow-wrap:break-word}
+
+/* ===== 任务卡片（首页地图）===== */
+.map-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem}
+.quest-card{background:linear-gradient(160deg,var(--panel),var(--panel2));border:1px solid var(--line);
+  border-radius:12px;padding:1rem;cursor:pointer;transition:transform .15s,border-color .15s;position:relative;overflow:hidden}
+.quest-card:hover{transform:translateY(-3px);border-color:var(--xp)}
+.quest-card.locked{opacity:.55;filter:grayscale(.6)}
+.quest-card h3{margin:.2rem 0;font-size:1rem;color:var(--text)}
+.quest-card .desc{font-size:.78rem;color:var(--dim);min-height:2.4em}
+.quest-card .badge{position:absolute;top:.7rem;right:.7rem;font-family:var(--font-pixel);font-size:.65rem;
+  padding:.15rem .5rem;border-radius:99px;border:1px solid var(--line);color:var(--dim)}
+.quest-card .badge.done{color:var(--ok);border-color:var(--ok)}
+.quest-card .rune{font-size:1.4rem}
+.map-section{margin:2rem 0 1rem;font-family:var(--font-pixel);color:var(--gold);
+  border-bottom:1px dashed var(--line);padding-bottom:.4rem}
+
+/* ===== 文章页 ===== */
+article.doc{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:clamp(1rem,3vw,2.5rem);
+  box-shadow:0 10px 40px rgba(0,0,0,.35)}
+article.doc pre{background:#080b11;border:1px solid var(--line);border-radius:8px;padding:1rem;overflow-x:auto;position:relative}
+article.doc code{font-family:ui-monospace,Menlo,monospace;font-size:.85rem;color:#cfe3ff}
+article.doc :not(pre)>code{background:#1b2233;color:var(--gold);padding:.1rem .35rem;border-radius:4px;font-size:.82em}
+article.doc table{border-collapse:collapse;width:100%;font-size:.85rem;display:block;overflow-x:auto}
+article.doc th,article.doc td{border:1px solid var(--line);padding:.45rem .7rem}
+article.doc th{background:var(--panel2);color:var(--gold)}
+article.doc blockquote{border-left:3px solid var(--xp);background:rgba(124,92,255,.08);margin:1rem 0;padding:.6rem 1rem;border-radius:0 8px 8px 0;color:var(--dim)}
+article.doc img{max-width:100%}
+.cm-block{border:1px solid #1e2a3f;border-radius:8px;margin:1rem 0;overflow:hidden;background:#080b11}
+.cm-head{display:flex;justify-content:space-between;align-items:center;background:#101623;padding:.35rem .7rem;font-size:.72rem;color:var(--dim);font-family:var(--font-pixel)}
+.cm-block textarea{width:100%;background:#080b11;color:#d7e4ff;border:none;border-top:1px solid #1e2a3f;
+  font-family:ui-monospace,Menlo,monospace;font-size:.85rem;padding:.9rem;min-height:90px;resize:vertical;outline:none;line-height:1.5}
+.cm-out{border-top:1px dashed #1e2a3f;padding:.6rem .9rem;font-family:ui-monospace,Menlo,monospace;font-size:.8rem;
+  white-space:pre-wrap;max-height:220px;overflow:auto;color:var(--ok);display:none}
+.mdx{background:#131a29;border:1px dashed var(--xp);border-radius:8px;padding:.4rem 1rem;color:var(--dim);font-size:.75rem;margin:1rem 0}
+
+/* ===== 升级弹窗 ===== */
+#toast{position:fixed;bottom:1.2rem;left:50%;transform:translateX(-50%) translateY(120px);z-index:99;
+  background:linear-gradient(135deg,#7c5cff,#4dd0e1);color:#fff;padding:.8rem 1.6rem;border-radius:10px;
+  font-family:var(--font-pixel);font-weight:700;box-shadow:0 8px 30px rgba(124,92,255,.5);transition:transform .4s}
+#toast.show{transform:translateX(-50%) translateY(0)}
+#achv{position:fixed;top:70px;right:1rem;z-index:99;display:flex;flex-direction:column;gap:.5rem}
+.achv-item{background:var(--panel);border:1px solid var(--gold);border-radius:10px;padding:.6rem 1rem;font-size:.8rem;
+  animation:pop .4s;box-shadow:0 6px 20px rgba(245,197,66,.25)}
+@keyframes pop{from{transform:scale(.6);opacity:0}}
+#fab{display:none;position:fixed;bottom:1rem;left:1rem;z-index:45}
+@media(max-width:900px){#fab{display:block}}
+footer{color:var(--dim);font-size:.72rem;text-align:center;padding:1rem}
+</style>
+</head>
+<body>
+
+<div id="hud">
+  <div class="logo">⚡ Claude Code <span>任务卷轴</span></div>
+  <div id="xpbar"><i></i><b>LV 1 · 0 XP</b></div>
+  <div id="lv"></div><div id="coins">🪙 0</div>
+  <button class="btn" onclick="toggleSide()" style="display:none" id="sidebtn">☰ 地图</button>
+</div>
+<div id="achv"></div>
+<div id="toast"></div>
+
+<div id="wrap">
+  <nav id="side"></nav>
+  <main id="main"></main>
+</div>
+<button class="btn primary" id="fab" onclick="toggleSide()">🗺️</button>
+<footer>数据来源：<a href="https://code.claude.com/docs/zh-CN/overview" target="_blank">code.claude.com 官方文档</a> · 由 GitHub Actions 每日自动同步 · 仅供学习</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
