@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T07:09:51Z",
+ "generated": "2026-09-05T06:53:03Z",
  "source": "https://code.claude.com/docs/llms.txt",
  "locale": "zh-CN",
  "count": 191,
@@ -13,8 +13,8 @@
    "file": "overview.md",
    "locale": "zh-CN",
    "words": 11695,
-   "hash": 3853986325,
-   "updated": "2026-09-04"
+   "hash": 1801980279,
+   "updated": "2026-09-05"
   },
   {
    "title": "Quickstart",
@@ -25,8 +25,8 @@
    "file": "quickstart.md",
    "locale": "zh-CN",
    "words": 9424,
-   "hash": 2109988934,
-   "updated": "2026-09-04"
+   "hash": 2209049778,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code changelog",
@@ -36,9 +36,9 @@
    "order": 2,
    "file": "changelog.md",
    "locale": "zh-CN",
-   "words": 251286,
-   "hash": 2167235319,
-   "updated": "2026-09-04"
+   "words": 251110,
+   "hash": 1587969222,
+   "updated": "2026-09-05"
   },
   {
    "title": "How Claude Code works",
@@ -49,8 +49,8 @@
    "file": "how-claude-code-works.md",
    "locale": "zh-CN",
    "words": 10410,
-   "hash": 2882038432,
-   "updated": "2026-09-04"
+   "hash": 858615316,
+   "updated": "2026-09-05"
   },
   {
    "title": "Extend Claude Code",
@@ -61,8 +61,8 @@
    "file": "features-overview.md",
    "locale": "zh-CN",
    "words": 17668,
-   "hash": 2723404346,
-   "updated": "2026-09-04"
+   "hash": 3174894446,
+   "updated": "2026-09-05"
   },
   {
    "title": "Explore the .claude directory",
@@ -73,8 +73,8 @@
    "file": "claude-directory.md",
    "locale": "zh-CN",
    "words": 78665,
-   "hash": 2249532221,
-   "updated": "2026-09-04"
+   "hash": 4123604065,
+   "updated": "2026-09-05"
   },
   {
    "title": "Explore the context window",
@@ -85,8 +85,8 @@
    "file": "context-window.md",
    "locale": "zh-CN",
    "words": 55757,
-   "hash": 2488401410,
-   "updated": "2026-09-04"
+   "hash": 4028482329,
+   "updated": "2026-09-05"
   },
   {
    "title": "How Claude Code uses prompt caching",
@@ -97,8 +97,8 @@
    "file": "prompt-caching.md",
    "locale": "zh-CN",
    "words": 14680,
-   "hash": 2881486782,
-   "updated": "2026-09-04"
+   "hash": 1394573883,
+   "updated": "2026-09-05"
   },
   {
    "title": "How Claude remembers your project",
@@ -109,8 +109,8 @@
    "file": "memory.md",
    "locale": "zh-CN",
    "words": 17376,
-   "hash": 121042438,
-   "updated": "2026-09-04"
+   "hash": 4247608612,
+   "updated": "2026-09-05"
   },
   {
    "title": "Manage sessions",
@@ -121,8 +121,8 @@
    "file": "sessions.md",
    "locale": "zh-CN",
    "words": 8575,
-   "hash": 50212281,
-   "updated": "2026-09-04"
+   "hash": 3796110501,
+   "updated": "2026-09-05"
   },
   {
    "title": "Common workflows",
@@ -133,8 +133,8 @@
    "file": "common-workflows.md",
    "locale": "zh-CN",
    "words": 12152,
-   "hash": 1742477349,
-   "updated": "2026-09-04"
+   "hash": 2962464050,
+   "updated": "2026-09-05"
   },
   {
    "title": "Prompt library",
@@ -145,8 +145,8 @@
    "file": "prompt-library.md",
    "locale": "zh-CN",
    "words": 46724,
-   "hash": 2571998938,
-   "updated": "2026-09-04"
+   "hash": 2001552135,
+   "updated": "2026-09-05"
   },
   {
    "title": "Best practices for Claude Code",
@@ -157,8 +157,8 @@
    "file": "best-practices.md",
    "locale": "zh-CN",
    "words": 21549,
-   "hash": 3087905589,
-   "updated": "2026-09-04"
+   "hash": 4262984800,
+   "updated": "2026-09-05"
   },
   {
    "title": "Platforms and integrations",
@@ -169,8 +169,8 @@
    "file": "platforms.md",
    "locale": "zh-CN",
    "words": 9121,
-   "hash": 1457506345,
-   "updated": "2026-09-04"
+   "hash": 378404737,
+   "updated": "2026-09-05"
   },
   {
    "title": "Continue local sessions from any device with Remote Control",
@@ -181,8 +181,8 @@
    "file": "remote-control.md",
    "locale": "zh-CN",
    "words": 23073,
-   "hash": 3895100844,
-   "updated": "2026-09-04"
+   "hash": 3496556389,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code on mobile",
@@ -193,8 +193,8 @@
    "file": "mobile.md",
    "locale": "zh-CN",
    "words": 5200,
-   "hash": 2531581797,
-   "updated": "2026-09-04"
+   "hash": 2583139600,
+   "updated": "2026-09-05"
   },
   {
    "title": "Use Claude Code with Chrome",
@@ -205,8 +205,8 @@
    "file": "chrome.md",
    "locale": "zh-CN",
    "words": 8475,
-   "hash": 573428714,
-   "updated": "2026-09-04"
+   "hash": 1285814163,
+   "updated": "2026-09-05"
   },
   {
    "title": "Let Claude use your computer from the CLI",
@@ -217,8 +217,8 @@
    "file": "computer-use.md",
    "locale": "zh-CN",
    "words": 7477,
-   "hash": 1374800470,
-   "updated": "2026-09-04"
+   "hash": 81620595,
+   "updated": "2026-09-05"
   },
   {
    "title": "Use Claude Code in VS Code",
@@ -229,8 +229,8 @@
    "file": "vs-code.md",
    "locale": "zh-CN",
    "words": 28329,
-   "hash": 2802533973,
-   "updated": "2026-09-04"
+   "hash": 4063968547,
+   "updated": "2026-09-05"
   },
   {
    "title": "JetBrains IDEs",
@@ -241,8 +241,8 @@
    "file": "jetbrains.md",
    "locale": "zh-CN",
    "words": 7068,
-   "hash": 176412380,
-   "updated": "2026-09-04"
+   "hash": 4226972364,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code in Slack",
@@ -253,8 +253,8 @@
    "file": "slack.md",
    "locale": "zh-CN",
    "words": 8755,
-   "hash": 2120996419,
-   "updated": "2026-09-04"
+   "hash": 1696523193,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Tag",
@@ -265,8 +265,8 @@
    "file": "claude-tag.md",
    "locale": "en",
    "words": 986,
-   "hash": 899436833,
-   "updated": "2026-09-04"
+   "hash": 2309797492,
+   "updated": "2026-09-05"
   },
   {
    "title": "Get started with Claude Code on the web",
@@ -277,8 +277,8 @@
    "file": "web-quickstart.md",
    "locale": "zh-CN",
    "words": 11442,
-   "hash": 4228487680,
-   "updated": "2026-09-04"
+   "hash": 1336512069,
+   "updated": "2026-09-05"
   },
   {
    "title": "Use Claude Code on the web",
@@ -289,8 +289,8 @@
    "file": "claude-code-on-the-web.md",
    "locale": "zh-CN",
    "words": 35931,
-   "hash": 969014748,
-   "updated": "2026-09-04"
+   "hash": 480532203,
+   "updated": "2026-09-05"
   },
   {
    "title": "Automate work with routines",
@@ -301,8 +301,8 @@
    "file": "routines.md",
    "locale": "zh-CN",
    "words": 16753,
-   "hash": 4094637441,
-   "updated": "2026-09-04"
+   "hash": 525573645,
+   "updated": "2026-09-05"
   },
   {
    "title": "Find bugs with ultrareview",
@@ -313,8 +313,8 @@
    "file": "ultrareview.md",
    "locale": "zh-CN",
    "words": 5176,
-   "hash": 1053298582,
-   "updated": "2026-09-04"
+   "hash": 635885717,
+   "updated": "2026-09-05"
   },
   {
    "title": "Get started with the desktop app",
@@ -325,8 +325,8 @@
    "file": "desktop-quickstart.md",
    "locale": "zh-CN",
    "words": 6751,
-   "hash": 2789941582,
-   "updated": "2026-09-04"
+   "hash": 219022848,
+   "updated": "2026-09-05"
   },
   {
    "title": "Desktop application",
@@ -337,8 +337,8 @@
    "file": "desktop.md",
    "locale": "zh-CN",
    "words": 50803,
-   "hash": 2406277130,
-   "updated": "2026-09-04"
+   "hash": 3362746373,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Desktop on Linux (beta)",
@@ -349,8 +349,8 @@
    "file": "desktop-linux.md",
    "locale": "zh-CN",
    "words": 4764,
-   "hash": 2213597011,
-   "updated": "2026-09-04"
+   "hash": 2167514998,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code Desktop in WSL",
@@ -361,8 +361,8 @@
    "file": "desktop-wsl.md",
    "locale": "zh-CN",
    "words": 1629,
-   "hash": 1033031143,
-   "updated": "2026-09-04"
+   "hash": 1377337370,
+   "updated": "2026-09-05"
   },
   {
    "title": "Schedule recurring tasks in Claude Code Desktop",
@@ -373,8 +373,8 @@
    "file": "desktop-scheduled-tasks.md",
    "locale": "zh-CN",
    "words": 6900,
-   "hash": 1971357175,
-   "updated": "2026-09-04"
+   "hash": 72598008,
+   "updated": "2026-09-05"
   },
   {
    "title": "Test iOS apps in the simulator",
@@ -385,8 +385,8 @@
    "file": "desktop-ios-simulator.md",
    "locale": "zh-CN",
    "words": 6669,
-   "hash": 1674211912,
-   "updated": "2026-09-04"
+   "hash": 1288127876,
+   "updated": "2026-09-05"
   },
   {
    "title": "Catch security issues as Claude writes code",
@@ -397,8 +397,8 @@
    "file": "security-guidance.md",
    "locale": "zh-CN",
    "words": 10471,
-   "hash": 1342999875,
-   "updated": "2026-09-04"
+   "hash": 1643499495,
+   "updated": "2026-09-05"
   },
   {
    "title": "Scan your codebase for vulnerabilities",
@@ -409,8 +409,8 @@
    "file": "claude-security.md",
    "locale": "zh-CN",
    "words": 7156,
-   "hash": 3767138195,
-   "updated": "2026-09-04"
+   "hash": 1603563581,
+   "updated": "2026-09-05"
   },
   {
    "title": "Code Review",
@@ -421,8 +421,8 @@
    "file": "code-review.md",
    "locale": "zh-CN",
    "words": 11777,
-   "hash": 147137335,
-   "updated": "2026-09-04"
+   "hash": 3593029369,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code GitHub Actions",
@@ -433,8 +433,8 @@
    "file": "github-actions.md",
    "locale": "zh-CN",
    "words": 22345,
-   "hash": 3382705694,
-   "updated": "2026-09-04"
+   "hash": 1575514631,
+   "updated": "2026-09-05"
   },
   {
    "title": "Use Claude Code GitHub Actions with cloud providers",
@@ -445,8 +445,8 @@
    "file": "github-actions-cloud-providers.md",
    "locale": "en",
    "words": 19103,
-   "hash": 3336033292,
-   "updated": "2026-09-04"
+   "hash": 95921237,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code with GitHub Enterprise Server",
@@ -457,8 +457,8 @@
    "file": "github-enterprise-server.md",
    "locale": "zh-CN",
    "words": 11228,
-   "hash": 2495768510,
-   "updated": "2026-09-04"
+   "hash": 1897679529,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code GitLab CI/CD",
@@ -469,8 +469,8 @@
    "file": "gitlab-ci-cd.md",
    "locale": "zh-CN",
    "words": 13550,
-   "hash": 3974072750,
-   "updated": "2026-09-04"
+   "hash": 2945295276,
+   "updated": "2026-09-05"
   },
   {
    "title": "Run agents in parallel",
@@ -481,8 +481,8 @@
    "file": "agents.md",
    "locale": "zh-CN",
    "words": 3660,
-   "hash": 3469724936,
-   "updated": "2026-09-04"
+   "hash": 3707439722,
+   "updated": "2026-09-05"
   },
   {
    "title": "Create custom subagents",
@@ -493,8 +493,8 @@
    "file": "sub-agents.md",
    "locale": "zh-CN",
    "words": 51141,
-   "hash": 1953593152,
-   "updated": "2026-09-04"
+   "hash": 1624598035,
+   "updated": "2026-09-05"
   },
   {
    "title": "Manage multiple agents with agent view",
@@ -505,8 +505,8 @@
    "file": "agent-view.md",
    "locale": "zh-CN",
    "words": 55774,
-   "hash": 4227343647,
-   "updated": "2026-09-04"
+   "hash": 113082762,
+   "updated": "2026-09-05"
   },
   {
    "title": "Orchestrate teams of Claude Code sessions",
@@ -517,8 +517,8 @@
    "file": "agent-teams.md",
    "locale": "zh-CN",
    "words": 17126,
-   "hash": 3713950734,
-   "updated": "2026-09-04"
+   "hash": 2328652049,
+   "updated": "2026-09-05"
   },
   {
    "title": "Message your other Claude Code sessions",
@@ -529,8 +529,8 @@
    "file": "cross-session-messaging.md",
    "locale": "en",
    "words": 40255,
-   "hash": 974268084,
-   "updated": "2026-09-04"
+   "hash": 1052078735,
+   "updated": "2026-09-05"
   },
   {
    "title": "Orchestrate subagents at scale with dynamic workflows",
@@ -541,8 +541,8 @@
    "file": "workflows.md",
    "locale": "zh-CN",
    "words": 14400,
-   "hash": 3446734339,
-   "updated": "2026-09-04"
+   "hash": 2055805215,
+   "updated": "2026-09-05"
   },
   {
    "title": "Run parallel sessions with worktrees",
@@ -553,8 +553,8 @@
    "file": "worktrees.md",
    "locale": "zh-CN",
    "words": 8137,
-   "hash": 1559310549,
-   "updated": "2026-09-04"
+   "hash": 4286565101,
+   "updated": "2026-09-05"
   },
   {
    "title": "Connect to MCP servers",
@@ -565,8 +565,8 @@
    "file": "mcp-quickstart.md",
    "locale": "zh-CN",
    "words": 14097,
-   "hash": 2823950283,
-   "updated": "2026-09-04"
+   "hash": 2108273326,
+   "updated": "2026-09-05"
   },
   {
    "title": "Connect Claude Code to tools via MCP",
@@ -577,8 +577,8 @@
    "file": "mcp.md",
    "locale": "zh-CN",
    "words": 42429,
-   "hash": 99241173,
-   "updated": "2026-09-04"
+   "hash": 706293871,
+   "updated": "2026-09-05"
   },
   {
    "title": "Extend Claude with skills",
@@ -589,8 +589,8 @@
    "file": "skills.md",
    "locale": "zh-CN",
    "words": 42646,
-   "hash": 16970674,
-   "updated": "2026-09-04"
+   "hash": 714708667,
+   "updated": "2026-09-05"
   },
   {
    "title": "Discover and install prebuilt plugins through marketplaces",
@@ -601,8 +601,8 @@
    "file": "discover-plugins.md",
    "locale": "zh-CN",
    "words": 15792,
-   "hash": 386342963,
-   "updated": "2026-09-04"
+   "hash": 2965414983,
+   "updated": "2026-09-05"
   },
   {
    "title": "Create plugins",
@@ -613,8 +613,8 @@
    "file": "plugins.md",
    "locale": "zh-CN",
    "words": 16905,
-   "hash": 3904169326,
-   "updated": "2026-09-04"
+   "hash": 1891814138,
+   "updated": "2026-09-05"
   },
   {
    "title": "Share session output as artifacts",
@@ -625,8 +625,8 @@
    "file": "artifacts.md",
    "locale": "zh-CN",
    "words": 15673,
-   "hash": 3298977744,
-   "updated": "2026-09-04"
+   "hash": 896899732,
+   "updated": "2026-09-05"
   },
   {
    "title": "Automate actions with hooks",
@@ -637,8 +637,8 @@
    "file": "hooks-guide.md",
    "locale": "zh-CN",
    "words": 48356,
-   "hash": 2499930342,
-   "updated": "2026-09-04"
+   "hash": 2934172663,
+   "updated": "2026-09-05"
   },
   {
    "title": "Push events into a running session with channels",
@@ -649,8 +649,8 @@
    "file": "channels.md",
    "locale": "zh-CN",
    "words": 14102,
-   "hash": 3997478135,
-   "updated": "2026-09-04"
+   "hash": 4201115419,
+   "updated": "2026-09-05"
   },
   {
    "title": "Run prompts on a schedule",
@@ -661,8 +661,8 @@
    "file": "scheduled-tasks.md",
    "locale": "zh-CN",
    "words": 10459,
-   "hash": 480556256,
-   "updated": "2026-09-04"
+   "hash": 1784419818,
+   "updated": "2026-09-05"
   },
   {
    "title": "Keep Claude working toward a goal",
@@ -673,8 +673,8 @@
    "file": "goal.md",
    "locale": "zh-CN",
    "words": 4803,
-   "hash": 2118054815,
-   "updated": "2026-09-04"
+   "hash": 1898964112,
+   "updated": "2026-09-05"
   },
   {
    "title": "Run Claude Code programmatically",
@@ -685,8 +685,8 @@
    "file": "headless.md",
    "locale": "zh-CN",
    "words": 14600,
-   "hash": 1131379939,
-   "updated": "2026-09-04"
+   "hash": 4024180269,
+   "updated": "2026-09-05"
   },
   {
    "title": "Launch sessions from links",
@@ -697,8 +697,8 @@
    "file": "deep-links.md",
    "locale": "zh-CN",
    "words": 8420,
-   "hash": 1038137587,
-   "updated": "2026-09-04"
+   "hash": 1041691778,
+   "updated": "2026-09-05"
   },
   {
    "title": "Set up Claude Code in a monorepo or large codebase",
@@ -709,8 +709,8 @@
    "file": "large-codebases.md",
    "locale": "zh-CN",
    "words": 19447,
-   "hash": 2536278386,
-   "updated": "2026-09-04"
+   "hash": 2861241688,
+   "updated": "2026-09-05"
   },
   {
    "title": "Troubleshoot installation and login",
@@ -721,8 +721,8 @@
    "file": "troubleshoot-install.md",
    "locale": "zh-CN",
    "words": 34216,
-   "hash": 1813185612,
-   "updated": "2026-09-04"
+   "hash": 2807500552,
+   "updated": "2026-09-05"
   },
   {
    "title": "Troubleshooting",
@@ -733,8 +733,8 @@
    "file": "troubleshooting.md",
    "locale": "zh-CN",
    "words": 6412,
-   "hash": 2357310270,
-   "updated": "2026-09-04"
+   "hash": 1091711561,
+   "updated": "2026-09-05"
   },
   {
    "title": "Debug your configuration",
@@ -745,8 +745,8 @@
    "file": "debug-your-config.md",
    "locale": "zh-CN",
    "words": 11212,
-   "hash": 3595496128,
-   "updated": "2026-09-04"
+   "hash": 2458807964,
+   "updated": "2026-09-05"
   },
   {
    "title": "Error reference",
@@ -757,8 +757,8 @@
    "file": "errors.md",
    "locale": "zh-CN",
    "words": 70715,
-   "hash": 3404623440,
-   "updated": "2026-09-04"
+   "hash": 1227756548,
+   "updated": "2026-09-05"
   },
   {
    "title": "Set up Claude Code for your organization",
@@ -769,8 +769,8 @@
    "file": "admin-setup.md",
    "locale": "zh-CN",
    "words": 19538,
-   "hash": 2904955028,
-   "updated": "2026-09-04"
+   "hash": 1330905285,
+   "updated": "2026-09-05"
   },
   {
    "title": "Advanced setup",
@@ -781,8 +781,8 @@
    "file": "setup.md",
    "locale": "zh-CN",
    "words": 21271,
-   "hash": 62792648,
-   "updated": "2026-09-04"
+   "hash": 1894467716,
+   "updated": "2026-09-05"
   },
   {
    "title": "Authentication",
@@ -793,8 +793,8 @@
    "file": "authentication.md",
    "locale": "zh-CN",
    "words": 9035,
-   "hash": 2178381293,
-   "updated": "2026-09-04"
+   "hash": 4232408649,
+   "updated": "2026-09-05"
   },
   {
    "title": "Deploy managed settings",
@@ -804,9 +804,9 @@
    "order": 66,
    "file": "managed-settings.md",
    "locale": "en",
-   "words": 59026,
-   "hash": 4265326291,
-   "updated": "2026-09-04"
+   "words": 59362,
+   "hash": 3375487820,
+   "updated": "2026-09-05"
   },
   {
    "title": "Configure server-managed settings",
@@ -817,8 +817,8 @@
    "file": "server-managed-settings.md",
    "locale": "zh-CN",
    "words": 13710,
-   "hash": 1030366088,
-   "updated": "2026-09-04"
+   "hash": 537994627,
+   "updated": "2026-09-05"
   },
   {
    "title": "Control MCP server access for your organization",
@@ -829,8 +829,8 @@
    "file": "managed-mcp.md",
    "locale": "zh-CN",
    "words": 19352,
-   "hash": 1603995239,
-   "updated": "2026-09-04"
+   "hash": 3293600208,
+   "updated": "2026-09-05"
   },
   {
    "title": "Configure auto mode",
@@ -841,8 +841,8 @@
    "file": "auto-mode-config.md",
    "locale": "zh-CN",
    "words": 12225,
-   "hash": 2908447487,
-   "updated": "2026-09-04"
+   "hash": 859203271,
+   "updated": "2026-09-05"
   },
   {
    "title": "Enterprise deployment overview",
@@ -853,8 +853,8 @@
    "file": "third-party-integrations.md",
    "locale": "zh-CN",
    "words": 12299,
-   "hash": 898532053,
-   "updated": "2026-09-04"
+   "hash": 4165961961,
+   "updated": "2026-09-05"
   },
   {
    "title": "Feature availability",
@@ -865,8 +865,8 @@
    "file": "feature-availability.md",
    "locale": "zh-CN",
    "words": 16152,
-   "hash": 4132394799,
-   "updated": "2026-09-04"
+   "hash": 1737946368,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code on Amazon Bedrock",
@@ -877,8 +877,8 @@
    "file": "amazon-bedrock.md",
    "locale": "zh-CN",
    "words": 23502,
-   "hash": 3243792123,
-   "updated": "2026-09-04"
+   "hash": 1675078079,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code on Claude Platform on AWS",
@@ -889,8 +889,8 @@
    "file": "claude-platform-on-aws.md",
    "locale": "zh-CN",
    "words": 14394,
-   "hash": 467741034,
-   "updated": "2026-09-04"
+   "hash": 2635120152,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code on Google Cloud's Agent Platform",
@@ -901,8 +901,8 @@
    "file": "google-vertex-ai.md",
    "locale": "zh-CN",
    "words": 13425,
-   "hash": 3844420579,
-   "updated": "2026-09-04"
+   "hash": 962540627,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code on Microsoft Foundry",
@@ -913,8 +913,8 @@
    "file": "microsoft-foundry.md",
    "locale": "zh-CN",
    "words": 7871,
-   "hash": 4159367121,
-   "updated": "2026-09-04"
+   "hash": 2844012165,
+   "updated": "2026-09-05"
   },
   {
    "title": "Enterprise network configuration",
@@ -925,8 +925,8 @@
    "file": "network-config.md",
    "locale": "zh-CN",
    "words": 8254,
-   "hash": 782059652,
-   "updated": "2026-09-04"
+   "hash": 545840510,
+   "updated": "2026-09-05"
   },
   {
    "title": "Run Claude Code behind a corporate launcher",
@@ -937,8 +937,8 @@
    "file": "corporate-launcher.md",
    "locale": "zh-CN",
    "words": 6000,
-   "hash": 797060349,
-   "updated": "2026-09-04"
+   "hash": 3046253735,
+   "updated": "2026-09-05"
   },
   {
    "title": "Development containers",
@@ -949,8 +949,8 @@
    "file": "devcontainer.md",
    "locale": "zh-CN",
    "words": 10543,
-   "hash": 4093096637,
-   "updated": "2026-09-04"
+   "hash": 2187015083,
+   "updated": "2026-09-05"
   },
   {
    "title": "Run Claude Code through a gateway",
@@ -961,8 +961,8 @@
    "file": "gateways.md",
    "locale": "zh-CN",
    "words": 4745,
-   "hash": 3997889061,
-   "updated": "2026-09-04"
+   "hash": 438331753,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude apps gateway for Amazon Bedrock, Claude Platform on AWS, Google Cloud, and Microsoft Foundry",
@@ -973,8 +973,8 @@
    "file": "claude-apps-gateway.md",
    "locale": "zh-CN",
    "words": 25921,
-   "hash": 3736999460,
-   "updated": "2026-09-04"
+   "hash": 1764042102,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude apps gateway configuration",
@@ -985,8 +985,8 @@
    "file": "claude-apps-gateway-config.md",
    "locale": "zh-CN",
    "words": 48507,
-   "hash": 3141861862,
-   "updated": "2026-09-04"
+   "hash": 2185738418,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude apps gateway spend limits",
@@ -997,8 +997,8 @@
    "file": "claude-apps-gateway-spend-limits.md",
    "locale": "zh-CN",
    "words": 9545,
-   "hash": 3295732516,
-   "updated": "2026-09-04"
+   "hash": 693759582,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude apps gateway deployment and operations",
@@ -1009,8 +1009,8 @@
    "file": "claude-apps-gateway-deploy.md",
    "locale": "zh-CN",
    "words": 27885,
-   "hash": 260002063,
-   "updated": "2026-09-04"
+   "hash": 2364144164,
+   "updated": "2026-09-05"
   },
   {
    "title": "Deploy Claude apps gateway on AWS",
@@ -1021,8 +1021,8 @@
    "file": "claude-apps-gateway-on-aws.md",
    "locale": "zh-CN",
    "words": 33328,
-   "hash": 893003539,
-   "updated": "2026-09-04"
+   "hash": 564055559,
+   "updated": "2026-09-05"
   },
   {
    "title": "Deploy Claude apps gateway on Google Cloud",
@@ -1033,8 +1033,8 @@
    "file": "claude-apps-gateway-on-gcp.md",
    "locale": "zh-CN",
    "words": 17164,
-   "hash": 1767869733,
-   "updated": "2026-09-04"
+   "hash": 1364987696,
+   "updated": "2026-09-05"
   },
   {
    "title": "Other LLM gateways",
@@ -1045,8 +1045,8 @@
    "file": "llm-gateway.md",
    "locale": "zh-CN",
    "words": 3083,
-   "hash": 4234287675,
-   "updated": "2026-09-04"
+   "hash": 2832782046,
+   "updated": "2026-09-05"
   },
   {
    "title": "Connect Claude Code to an LLM gateway",
@@ -1057,8 +1057,8 @@
    "file": "llm-gateway-connect.md",
    "locale": "zh-CN",
    "words": 27459,
-   "hash": 2629184413,
-   "updated": "2026-09-04"
+   "hash": 3801082925,
+   "updated": "2026-09-05"
   },
   {
    "title": "Roll out an LLM gateway for your organization",
@@ -1069,8 +1069,8 @@
    "file": "llm-gateway-rollout.md",
    "locale": "zh-CN",
    "words": 17554,
-   "hash": 2749133970,
-   "updated": "2026-09-04"
+   "hash": 1361410063,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code gateway compatibility guide",
@@ -1081,8 +1081,8 @@
    "file": "llm-gateway-protocol.md",
    "locale": "zh-CN",
    "words": 16071,
-   "hash": 1046967307,
-   "updated": "2026-09-04"
+   "hash": 683555079,
+   "updated": "2026-09-05"
   },
   {
    "title": "Monitoring",
@@ -1093,8 +1093,8 @@
    "file": "monitoring-usage.md",
    "locale": "zh-CN",
    "words": 67563,
-   "hash": 224542397,
-   "updated": "2026-09-04"
+   "hash": 3072448051,
+   "updated": "2026-09-05"
   },
   {
    "title": "Manage costs effectively",
@@ -1105,8 +1105,8 @@
    "file": "costs.md",
    "locale": "zh-CN",
    "words": 16168,
-   "hash": 436453061,
-   "updated": "2026-09-04"
+   "hash": 1678301601,
+   "updated": "2026-09-05"
   },
   {
    "title": "Track team usage with analytics",
@@ -1117,8 +1117,8 @@
    "file": "analytics.md",
    "locale": "zh-CN",
    "words": 7145,
-   "hash": 3490238615,
-   "updated": "2026-09-04"
+   "hash": 3836266075,
+   "updated": "2026-09-05"
   },
   {
    "title": "Create and distribute a plugin marketplace",
@@ -1129,8 +1129,8 @@
    "file": "plugin-marketplaces.md",
    "locale": "zh-CN",
    "words": 47990,
-   "hash": 2332266606,
-   "updated": "2026-09-04"
+   "hash": 3775289724,
+   "updated": "2026-09-05"
   },
   {
    "title": "Constrain plugin dependency versions",
@@ -1141,8 +1141,8 @@
    "file": "plugin-dependencies.md",
    "locale": "zh-CN",
    "words": 10977,
-   "hash": 151852858,
-   "updated": "2026-09-04"
+   "hash": 174250496,
+   "updated": "2026-09-05"
   },
   {
    "title": "Recommend your plugin from your CLI",
@@ -1153,8 +1153,8 @@
    "file": "plugin-hints.md",
    "locale": "zh-CN",
    "words": 5266,
-   "hash": 4146994741,
-   "updated": "2026-09-04"
+   "hash": 3557877482,
+   "updated": "2026-09-05"
   },
   {
    "title": "Recommend plugins for your org",
@@ -1165,8 +1165,8 @@
    "file": "plugin-relevance.md",
    "locale": "zh-CN",
    "words": 8707,
-   "hash": 2260933392,
-   "updated": "2026-09-04"
+   "hash": 3710749283,
+   "updated": "2026-09-05"
   },
   {
    "title": "Security",
@@ -1177,8 +1177,8 @@
    "file": "security.md",
    "locale": "zh-CN",
    "words": 6258,
-   "hash": 1473664326,
-   "updated": "2026-09-04"
+   "hash": 256243224,
+   "updated": "2026-09-05"
   },
   {
    "title": "Data usage",
@@ -1189,8 +1189,8 @@
    "file": "data-usage.md",
    "locale": "zh-CN",
    "words": 11179,
-   "hash": 4220152245,
-   "updated": "2026-09-04"
+   "hash": 2976658317,
+   "updated": "2026-09-05"
   },
   {
    "title": "Zero data retention",
@@ -1201,8 +1201,8 @@
    "file": "zero-data-retention.md",
    "locale": "zh-CN",
    "words": 4243,
-   "hash": 2135546370,
-   "updated": "2026-09-04"
+   "hash": 4120838053,
+   "updated": "2026-09-05"
   },
   {
    "title": "Communications kit",
@@ -1213,8 +1213,8 @@
    "file": "communications-kit.md",
    "locale": "zh-CN",
    "words": 13739,
-   "hash": 4175086906,
-   "updated": "2026-09-04"
+   "hash": 283987573,
+   "updated": "2026-09-05"
   },
   {
    "title": "Champion kit",
@@ -1225,8 +1225,8 @@
    "file": "champion-kit.md",
    "locale": "zh-CN",
    "words": 10024,
-   "hash": 3432912963,
-   "updated": "2026-09-04"
+   "hash": 1921213982,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code settings",
@@ -1237,8 +1237,8 @@
    "file": "settings.md",
    "locale": "zh-CN",
    "words": 158771,
-   "hash": 1369242873,
-   "updated": "2026-09-04"
+   "hash": 2185043158,
+   "updated": "2026-09-05"
   },
   {
    "title": "Claude Code settings reference",
@@ -1248,9 +1248,9 @@
    "order": 103,
    "file": "settings-reference.md",
    "locale": "en",
-   "words": 420663,
-   "hash": 1986670113,
-   "updated": "2026-09-04"
+   "words": 423404,
+   "hash": 2649319888,
+   "updated": "2026-09-05"
   },
   {
    "title": "Example settings files",
@@ -1260,9 +1260,9 @@
    "order": 104,
    "file": "settings-example.md",
    "locale": "en",
-   "words": 14961,
-   "hash": 3031834119,
-   "updated": "2026-09-04"
+   "words": 14973,
+   "hash": 3471019208,
+   "updated": "2026-09-05"
   },
   {
    "title": "Configure permissions",
@@ -1273,8 +1273,8 @@
    "file": "permissions.md",
    "locale": "zh-CN",
    "words": 31387,
-   "hash": 2495432959,
-   "updated": "2026-09-04"
+   "hash": 1843169111,
+   "updated": "2026-09-05"
   },
   {
    "title": "Choose a permission mode",
@@ -1285,8 +1285,8 @@
    "file": "permission-modes.md",
    "locale": "zh-CN",
    "words": 23221,
-   "hash": 2169828517,
-   "updated": "2026-09-04"
+   "hash": 3292504626,
+   "updated": "2026-09-05"
   },
   {
    "title": "Configure the sandboxed Bash tool",
@@ -1297,8 +1297,8 @@
    "file": "sandboxing.md",
    "locale": "zh-CN",
    "words": 23326,
-   "hash": 3684366183,
-   "updated": "2026-09-04"
+   "hash": 596446173,
+   "updated": "2026-09-05"
   },
   {
    "title": "Choose a sandbox environment",
@@ -1309,8 +1309,8 @@
    "file": "sandbox-environments.md",
    "locale": "zh-CN",
    "words": 9254,
-   "hash": 163073846,
-   "updated": "2026-09-04"
+   "hash": 2141426044,
+   "updated": "2026-09-05"
   },
   {
    "title": "Configure cloud environments",
@@ -1321,8 +1321,8 @@
    "file": "cloud-environments.md",
    "locale": "zh-CN",
    "words": 31080,
-   "hash": 2468913545,
-   "updated": "2026-09-04"
+   "hash": 1727922133,
+   "updated": "2026-09-05"
   },
   {
    "title": "Self-hosted environments",
@@ -1333,8 +1333,8 @@
    "file": "self-hosted-environments.md",
    "locale": "en",
    "words": 19956,
-   "hash": 2056585848,
-   "updated": "2026-09-04"
+   "hash": 1215361728,
+   "updated": "2026-09-05"
   },
   {
    "title": "Self-hosted environments quickstart",
@@ -1345,8 +1345,8 @@
    "file": "self-hosted-environments-quickstart.md",
    "locale": "en",
    "words": 11636,
-   "hash": 3726848507,
-   "updated": "2026-09-04"
+   "hash": 3636815653,
+   "updated": "2026-09-05"
   },
   {
    "title": "Deploy self-hosted environments to production",
@@ -1357,8 +1357,8 @@
    "file": "self-hosted-environments-deploy.md",
    "locale": "en",
    "words": 58678,
-   "hash": 3298303905,
-   "updated": "2026-09-04"
+   "hash": 3532811642,
+   "updated": "2026-09-05"
   },
   {
    "title": "Customize sessions in self-hosted environments",
@@ -1369,8 +1369,8 @@
    "file": "self-hosted-environments-configuration.md",
    "locale": "en",
    "words": 51656,
-   "hash": 908538306,
-   "updated": "2026-09-04"
+   "hash": 1251324465,
+   "updated": "2026-09-05"
   },
   {
    "title": "Test self-hosted environments end to end",
@@ -1381,8 +1381,8 @@
    "file": "self-hosted-environments-testing.md",
    "locale": "en",
    "words": 15631,
-   "hash": 829106032,
-   "updated": "2026-09-04"
+   "hash": 199159457,
+   "updated": "2026-09-05"
   },
   {
    "title": "Self-hosted environments reference",
@@ -1393,8 +1393,8 @@
    "file": "self-hosted-environments-reference.md",
    "locale": "en",
    "words": 86122,
-   "hash": 1698894542,
-   "updated": "2026-09-04"
+   "hash": 3724439360,
+   "updated": "2026-09-05"
   },
   {
    "title": "Verify session identity in self-hosted environments",
@@ -1405,8 +1405,8 @@
    "file": "self-hosted-environments-identity.md",
    "locale": "en",
    "words": 25343,
-   "hash": 1679979133,
-   "updated": "2026-09-04"
+   "hash": 1264382944,
+   "updated": "2026-09-05"
   },
   {
    "title": "Model configuration",
@@ -1417,8 +1417,8 @@
    "file": "model-config.md",
    "locale": "zh-CN",
    "words": 45230,
-   "hash": 2288156908,
-   "updated": "2026-09-04"
+   "hash": 2003081194,
+   "updated": "2026-09-05"
   },
   {
    "title": "Speed up responses with fast mode",
@@ -1429,8 +1429,8 @@
    "file": "fast-mode.md",
    "locale": "zh-CN",
    "words": 5674,
-   "hash": 1989163812,
-   "updated": "2026-09-04"
+   "hash": 1310816547,
+   "updated": "2026-09-05"
   },
   {
    "title": "Escalate hard decisions with the advisor tool",
@@ -1441,8 +1441,8 @@
    "file": "advisor.md",
    "locale": "zh-CN",
    "words": 8329,
-   "hash": 3563113482,
-   "updated": "2026-09-04"
+   "hash": 948165886,
+   "updated": "2026-09-05"
   },
   {
    "title": "Output styles",
@@ -1453,8 +1453,8 @@
    "file": "output-styles.md",
    "locale": "zh-CN",
    "words": 5272,
-   "hash": 1949251711,
-   "updated": "2026-09-04"
+   "hash": 1755170377,
+   "updated": "2026-09-05"
   },
   {
    "title": "Configure your terminal for Claude Code",
@@ -1465,8 +1465,8 @@
    "file": "terminal-config.md",
    "locale": "zh-CN",
    "words": 12733,
-   "hash": 3574783249,
-   "updated": "2026-09-04"
+   "hash": 161087699,
+   "updated": "2026-09-05"
   },
   {
    "title": "Fullscreen rendering",
@@ -1477,8 +1477,8 @@
    "file": "fullscreen.md",
    "locale": "zh-CN",
    "words": 11270,
-   "hash": 3251577964,
-   "updated": "2026-09-04"
+   "hash": 2059689854,
+   "updated": "2026-09-05"
   },
   {
    "title": "Use Claude Code with a screen reader",
@@ -1489,8 +1489,8 @@
    "file": "accessibility.md",
    "locale": "zh-CN",
    "words": 5934,
-   "hash": 276380744,
-   "updated": "2026-09-04"
+   "hash": 853944396,
+   "updated": "2026-09-05"
   },
   {
    "title": "Voice dictation",
@@ -1501,8 +1501,8 @@
    "file": "voice-dictation.md",
    "locale": "zh-CN",
    "words": 8711,
-   "hash": 4000016055,
-   "updated": "2026-09-04"
+   "hash": 4045258282,
+   "updated": "2026-09-05"
   },
   {
    "title": "Customize your status line",
@@ -1513,8 +1513,8 @@
    "file": "statusline.md",
    "locale": "zh-CN",
    "words": 46133,
-   "hash": 601299151,
-   "updated": "2026-09-04"
+   "hash": 1136679610,
+   "updated": "2026-09-05"
   },
   {
    "title": "Customize keyboard shortcuts",
@@ -1525,8 +1525,8 @@
    "file": "keybindings.md",
    "locale": "zh-CN",
    "words": 20267,
-   "hash": 73753588,
-   "updated": "2026-09-04"
+   "hash": 2620751041,
+   "updated": "2026-09-05"
   },
   {
    "title": "CLI reference",
@@ -1537,8 +1537,8 @@
    "file": "cli-reference.md",
    "locale": "zh-CN",
    "words": 58892,
-   "hash": 840564998,
-   "updated": "2026-09-04"
+   "hash": 891332018,
+   "updated": "2026-09-05"
   },
   {
    "title": "Commands",
@@ -1549,8 +1549,8 @@
    "file": "commands.md",
    "locale": "zh-CN",
    "words": 91732,
-   "hash": 1769740910,
-   "updated": "2026-09-04"
+   "hash": 4225502511,
+   "updated": "2026-09-05"
   },
   {
    "title": "Environment variables",
@@ -1561,8 +1561,8 @@
    "file": "env-vars.md",
    "locale": "zh-CN",
    "words": 200887,
-   "hash": 1159124751,
-   "updated": "2026-09-04"
+   "hash": 1264604791,
+   "updated": "2026-09-05"
   },
   {
    "title": "Tools reference",
@@ -1573,8 +1573,8 @@
    "file": "tools-reference.md",
    "locale": "zh-CN",
    "words": 41281,
-   "hash": 2086983735,
-   "updated": "2026-09-04"
+   "hash": 4181011072,
+   "updated": "2026-09-05"
   },
   {
    "title": "Interactive mode",
@@ -1585,8 +1585,8 @@
    "file": "interactive-mode.md",
    "locale": "zh-CN",
    "words": 23270,
-   "hash": 3195323624,
-   "updated": "2026-09-04"
+   "hash": 388549015,
+   "updated": "2026-09-05"
   },
   {
    "title": "Checkpointing",
@@ -1597,8 +1597,8 @@
    "file": "checkpointing.md",
    "locale": "zh-CN",
    "words": 3144,
-   "hash": 2256134373,
-   "updated": "2026-09-04"
+   "hash": 3028015984,
+   "updated": "2026-09-05"
   },
   {
    "title": "Hooks reference",
@@ -1609,8 +1609,8 @@
    "file": "hooks.md",
    "locale": "zh-CN",
    "words": 157650,
-   "hash": 324401969,
-   "updated": "2026-09-04"
+   "hash": 56906417,
+   "updated": "2026-09-05"
   },
   {
    "title": "Plugins reference",
@@ -1621,8 +1621,8 @@
    "file": "plugins-reference.md",
    "locale": "zh-CN",
    "words": 63291,
-   "hash": 3471391819,
-   "updated": "2026-09-04"
+   "hash": 4161144353,
+   "updated": "2026-09-05"
   },
   {
    "title": "Channels reference",
@@ -1633,8 +1633,8 @@
    "file": "channels-reference.md",
    "locale": "zh-CN",
    "words": 30357,
-   "hash": 3993990334,
-   "updated": "2026-09-04"
+   "hash": 2072282539,
+   "updated": "2026-09-05"
   },
   {
    "title": "Glossary",
@@ -1645,8 +1645,8 @@
    "file": "glossary.md",
    "locale": "zh-CN",
    "words": 13701,
-   "hash": 3436408918,
-   "updated": "2026-09-04"
+   "hash": 900433116,
+   "updated": "2026-09-05"
   },
   {
    "title": "Agent SDK overview",
@@ -1657,8 +1657,8 @@
    "file": "agent-sdk__overview.md",
    "locale": "zh-CN",
    "words": 21457,
-   "hash": 3684883116,
-   "updated": "2026-09-04"
+   "hash": 189446292,
+   "updated": "2026-09-05"
   },
   {
    "title": "Quickstart",
@@ -1669,356 +1669,356 @@
    "file": "agent-sdk__quickstart.md",
    "locale": "zh-CN",
    "words": 12357,
-   "hash": 12382732,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Troubleshooting",
-   "slug": "agent-sdk/troubleshooting",
-   "section": "Agent SDK",
-   "description": "Fix Agent SDK errors by the exact message you see, with the cause and fix for each error in the TypeScript and Python SDKs.",
-   "order": 139,
-   "file": "agent-sdk__troubleshooting.md",
-   "locale": "en",
-   "words": 11187,
-   "hash": 2898518,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Examples",
-   "slug": "agent-sdk/examples",
-   "section": "Agent SDK",
-   "description": "Find a complete, runnable Agent SDK project or a guided recipe in the Claude Cookbook that matches what you want to build.",
-   "order": 140,
-   "file": "agent-sdk__examples.md",
-   "locale": "en",
-   "words": 1955,
-   "hash": 3312403490,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "How the agent loop works",
-   "slug": "agent-sdk/agent-loop",
-   "section": "Agent SDK",
-   "description": "Understand the message lifecycle, tool execution, context window, and architecture that power your SDK agents.",
-   "order": 141,
-   "file": "agent-sdk__agent-loop.md",
-   "locale": "zh-CN",
-   "words": 26820,
-   "hash": 2266773386,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Use Claude Code features in the SDK",
-   "slug": "agent-sdk/claude-code-features",
-   "section": "Agent SDK",
-   "description": "Load project instructions, skills, hooks, and other Claude Code features into your SDK agents.",
-   "order": 142,
-   "file": "agent-sdk__claude-code-features.md",
-   "locale": "zh-CN",
-   "words": 17605,
-   "hash": 1079391634,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Work with sessions",
-   "slug": "agent-sdk/sessions",
-   "section": "Agent SDK",
-   "description": "How sessions persist agent conversation history, and when to use continue, resume, and fork to return to a prior run.",
-   "order": 143,
-   "file": "agent-sdk__sessions.md",
-   "locale": "zh-CN",
-   "words": 13521,
-   "hash": 3599968385,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Persist sessions to external storage",
-   "slug": "agent-sdk/session-storage",
-   "section": "Agent SDK",
-   "description": "Mirror session transcripts to S3, Redis, or your own backend so other hosts can resume your sessions.",
-   "order": 144,
-   "file": "agent-sdk__session-storage.md",
-   "locale": "zh-CN",
-   "words": 11020,
-   "hash": 3328373592,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Streaming Input",
-   "slug": "agent-sdk/streaming-vs-single-mode",
-   "section": "Agent SDK",
-   "description": "Understanding the two input modes for Claude Agent SDK and when to use each",
-   "order": 145,
-   "file": "agent-sdk__streaming-vs-single-mode.md",
-   "locale": "zh-CN",
-   "words": 7828,
-   "hash": 692114830,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Handle approvals and user input",
-   "slug": "agent-sdk/user-input",
-   "section": "Agent SDK",
-   "description": "Surface Claude's approval requests and clarifying questions to users, then return their decisions to the SDK.",
-   "order": 146,
-   "file": "agent-sdk__user-input.md",
-   "locale": "zh-CN",
-   "words": 29941,
-   "hash": 1892647627,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Stream responses in real-time",
-   "slug": "agent-sdk/streaming-output",
-   "section": "Agent SDK",
-   "description": "Get real-time responses from the Agent SDK as text and tool calls stream in",
-   "order": 147,
-   "file": "agent-sdk__streaming-output.md",
-   "locale": "zh-CN",
-   "words": 12925,
-   "hash": 2219704434,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Get structured output from agents",
-   "slug": "agent-sdk/structured-outputs",
-   "section": "Agent SDK",
-   "description": "Return validated JSON from agent workflows using JSON Schema, Zod, or Pydantic. Get type-safe, structured data after multi-turn tool use.",
-   "order": 148,
-   "file": "agent-sdk__structured-outputs.md",
-   "locale": "zh-CN",
-   "words": 13607,
-   "hash": 267014788,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Give Claude custom tools",
-   "slug": "agent-sdk/custom-tools",
-   "section": "Agent SDK",
-   "description": "Define custom tools with the Claude Agent SDK's in-process MCP server so Claude can call your functions, hit your APIs, and perform domain-specific operations.",
-   "order": 149,
-   "file": "agent-sdk__custom-tools.md",
-   "locale": "zh-CN",
-   "words": 31167,
-   "hash": 167405413,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Connect to external tools with MCP",
-   "slug": "agent-sdk/mcp",
-   "section": "Agent SDK",
-   "description": "Configure MCP servers to extend your agent with external tools. Covers transport types, tool search for large tool sets, authentication, and error handling.",
-   "order": 150,
-   "file": "agent-sdk__mcp.md",
-   "locale": "zh-CN",
-   "words": 22635,
-   "hash": 420982484,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Scale to many tools with tool search",
-   "slug": "agent-sdk/tool-search",
-   "section": "Agent SDK",
-   "description": "Scale your agent to thousands of tools by discovering and loading only what's needed, on demand.",
-   "order": 151,
-   "file": "agent-sdk__tool-search.md",
-   "locale": "zh-CN",
-   "words": 7186,
-   "hash": 356239547,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Subagents in the SDK",
-   "slug": "agent-sdk/subagents",
-   "section": "Agent SDK",
-   "description": "Define and invoke subagents to isolate context, run tasks in parallel, and apply specialized instructions in your Claude Agent SDK applications.",
-   "order": 152,
-   "file": "agent-sdk__subagents.md",
-   "locale": "zh-CN",
-   "words": 28107,
-   "hash": 3038401502,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Modifying system prompts",
-   "slug": "agent-sdk/modifying-system-prompts",
-   "section": "Agent SDK",
-   "description": "Choose between the `claude_code` preset and a custom system prompt, and customize behavior with CLAUDE.md, output styles, append, or a fully custom prompt.",
-   "order": 153,
-   "file": "agent-sdk__modifying-system-prompts.md",
-   "locale": "zh-CN",
-   "words": 15963,
-   "hash": 1200920194,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Extend agents with skills",
-   "slug": "agent-sdk/skills",
-   "section": "Agent SDK",
-   "description": "Control which skills Claude can invoke in Claude Agent SDK sessions, dispatch commands by name, and author skills your sessions discover",
-   "order": 154,
-   "file": "agent-sdk__skills.md",
-   "locale": "zh-CN",
-   "words": 9907,
-   "hash": 3690563187,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Plugins in the SDK",
-   "slug": "agent-sdk/plugins",
-   "section": "Agent SDK",
-   "description": "Load custom plugins to extend Claude Code with skills, agents, hooks, and MCP servers through the Agent SDK",
-   "order": 155,
-   "file": "agent-sdk__plugins.md",
-   "locale": "zh-CN",
-   "words": 10516,
-   "hash": 1218174045,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Configure permissions",
-   "slug": "agent-sdk/permissions",
-   "section": "Agent SDK",
-   "description": "Control how your agent uses tools with permission modes, hooks, and declarative allow/deny rules.",
-   "order": 156,
-   "file": "agent-sdk__permissions.md",
-   "locale": "zh-CN",
-   "words": 12709,
-   "hash": 573201733,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Intercept and control agent behavior with hooks",
-   "slug": "agent-sdk/hooks",
-   "section": "Agent SDK",
-   "description": "Intercept and customize agent behavior at key execution points with hooks",
-   "order": 157,
-   "file": "agent-sdk__hooks.md",
-   "locale": "zh-CN",
-   "words": 32029,
-   "hash": 2175343598,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Rewind file changes with checkpointing",
-   "slug": "agent-sdk/file-checkpointing",
-   "section": "Agent SDK",
-   "description": "Track file changes during agent sessions and restore files to any previous state",
-   "order": 158,
-   "file": "agent-sdk__file-checkpointing.md",
-   "locale": "zh-CN",
-   "words": 26289,
-   "hash": 3923949825,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Track cost and usage",
-   "slug": "agent-sdk/cost-tracking",
-   "section": "Agent SDK",
-   "description": "Learn how to track token usage, estimate costs, and configure prompt caching with the Claude Agent SDK.",
-   "order": 159,
-   "file": "agent-sdk__cost-tracking.md",
-   "locale": "zh-CN",
-   "words": 12956,
-   "hash": 1894312589,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Observability with OpenTelemetry",
-   "slug": "agent-sdk/observability",
-   "section": "Agent SDK",
-   "description": "Export traces, metrics, and events from the Agent SDK to your observability backend using OpenTelemetry.",
-   "order": 160,
-   "file": "agent-sdk__observability.md",
-   "locale": "zh-CN",
-   "words": 10821,
-   "hash": 1861368265,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Track todos",
-   "slug": "agent-sdk/todo-tracking",
-   "section": "Agent SDK",
-   "description": "Track todos in Agent SDK sessions and render Claude's progress in your application from structured tool calls",
-   "order": 161,
-   "file": "agent-sdk__todo-tracking.md",
-   "locale": "zh-CN",
-   "words": 13798,
-   "hash": 2182313455,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Hosting the Agent SDK",
-   "slug": "agent-sdk/hosting",
-   "section": "Agent SDK",
-   "description": "Deploy the Agent SDK in production: subprocess architecture, session persistence, scaling, observability, and multi-tenant isolation for Docker, Kubernetes, and sandbox providers.",
-   "order": 162,
-   "file": "agent-sdk__hosting.md",
-   "locale": "zh-CN",
-   "words": 13776,
-   "hash": 4102920425,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Securely deploying AI agents",
-   "slug": "agent-sdk/secure-deployment",
-   "section": "Agent SDK",
-   "description": "A guide to securing Claude Code and Agent SDK deployments with isolation, credential management, and network controls",
-   "order": 163,
-   "file": "agent-sdk__secure-deployment.md",
-   "locale": "zh-CN",
-   "words": 12705,
-   "hash": 3778013465,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Agent SDK reference - TypeScript",
-   "slug": "agent-sdk/typescript",
-   "section": "Agent SDK",
-   "description": "Complete API reference for the TypeScript Agent SDK, including all functions, types, and interfaces.",
-   "order": 164,
-   "file": "agent-sdk__typescript.md",
-   "locale": "zh-CN",
-   "words": 157526,
-   "hash": 1311232529,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "TypeScript SDK V2 session API (removed)",
-   "slug": "agent-sdk/typescript-v2-preview",
-   "section": "Agent SDK",
-   "description": "Reference for the removed V2 TypeScript Agent SDK session API, with session-based send/stream patterns for multi-turn conversations.",
-   "order": 165,
-   "file": "agent-sdk__typescript-v2-preview.md",
-   "locale": "zh-CN",
-   "words": 10360,
-   "hash": 3968746868,
-   "updated": "2026-09-04"
-  },
-  {
-   "title": "Agent SDK reference - Python",
-   "slug": "agent-sdk/python",
-   "section": "Agent SDK",
-   "description": "Complete API reference for the Python Agent SDK, including all functions, types, and classes.",
-   "order": 166,
-   "file": "agent-sdk__python.md",
-   "locale": "zh-CN",
-   "words": 135826,
-   "hash": 2047751223,
-   "updated": "2026-09-04"
+   "hash": 4152409193,
+   "updated": "2026-09-05"
   },
   {
    "title": "Migrate to Claude Agent SDK",
    "slug": "agent-sdk/migration-guide",
    "section": "Agent SDK",
    "description": "Guide for migrating the Claude Code TypeScript and Python SDKs to the Claude Agent SDK",
-   "order": 167,
+   "order": 139,
    "file": "agent-sdk__migration-guide.md",
    "locale": "zh-CN",
    "words": 7153,
-   "hash": 2802594884,
-   "updated": "2026-09-04"
+   "hash": 185072492,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Troubleshoot the Agent SDK",
+   "slug": "agent-sdk/troubleshooting",
+   "section": "Agent SDK",
+   "description": "Fix Agent SDK errors by the exact message you see, with the cause and fix for each error in the TypeScript and Python SDKs.",
+   "order": 140,
+   "file": "agent-sdk__troubleshooting.md",
+   "locale": "en",
+   "words": 11198,
+   "hash": 3339846354,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Examples",
+   "slug": "agent-sdk/examples",
+   "section": "Agent SDK",
+   "description": "Find a complete, runnable Agent SDK project or a guided recipe in the Claude Cookbook that matches what you want to build.",
+   "order": 141,
+   "file": "agent-sdk__examples.md",
+   "locale": "en",
+   "words": 1955,
+   "hash": 3570365790,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "How the agent loop works",
+   "slug": "agent-sdk/agent-loop",
+   "section": "Agent SDK",
+   "description": "Understand the message lifecycle, tool execution, context window, and architecture that power your SDK agents.",
+   "order": 142,
+   "file": "agent-sdk__agent-loop.md",
+   "locale": "zh-CN",
+   "words": 26820,
+   "hash": 2993879244,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Use Claude Code features in the SDK",
+   "slug": "agent-sdk/claude-code-features",
+   "section": "Agent SDK",
+   "description": "Load project instructions, skills, hooks, and other Claude Code features into your SDK agents.",
+   "order": 143,
+   "file": "agent-sdk__claude-code-features.md",
+   "locale": "zh-CN",
+   "words": 17605,
+   "hash": 4093251891,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Work with sessions",
+   "slug": "agent-sdk/sessions",
+   "section": "Agent SDK",
+   "description": "How sessions persist agent conversation history, and when to use continue, resume, and fork to return to a prior run.",
+   "order": 144,
+   "file": "agent-sdk__sessions.md",
+   "locale": "zh-CN",
+   "words": 13521,
+   "hash": 2322021306,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Persist sessions to external storage",
+   "slug": "agent-sdk/session-storage",
+   "section": "Agent SDK",
+   "description": "Mirror session transcripts to S3, Redis, or your own backend so other hosts can resume your sessions.",
+   "order": 145,
+   "file": "agent-sdk__session-storage.md",
+   "locale": "zh-CN",
+   "words": 11020,
+   "hash": 290249058,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Streaming Input",
+   "slug": "agent-sdk/streaming-vs-single-mode",
+   "section": "Agent SDK",
+   "description": "Understanding the two input modes for Claude Agent SDK and when to use each",
+   "order": 146,
+   "file": "agent-sdk__streaming-vs-single-mode.md",
+   "locale": "zh-CN",
+   "words": 7828,
+   "hash": 3009776282,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Handle approvals and user input",
+   "slug": "agent-sdk/user-input",
+   "section": "Agent SDK",
+   "description": "Surface Claude's approval requests and clarifying questions to users, then return their decisions to the SDK.",
+   "order": 147,
+   "file": "agent-sdk__user-input.md",
+   "locale": "zh-CN",
+   "words": 29941,
+   "hash": 818737368,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Stream responses in real-time",
+   "slug": "agent-sdk/streaming-output",
+   "section": "Agent SDK",
+   "description": "Get real-time responses from the Agent SDK as text and tool calls stream in",
+   "order": 148,
+   "file": "agent-sdk__streaming-output.md",
+   "locale": "zh-CN",
+   "words": 12925,
+   "hash": 1901116314,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Get structured output from agents",
+   "slug": "agent-sdk/structured-outputs",
+   "section": "Agent SDK",
+   "description": "Return validated JSON from agent workflows using JSON Schema, Zod, or Pydantic. Get type-safe, structured data after multi-turn tool use.",
+   "order": 149,
+   "file": "agent-sdk__structured-outputs.md",
+   "locale": "zh-CN",
+   "words": 13607,
+   "hash": 2572882246,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Give Claude custom tools",
+   "slug": "agent-sdk/custom-tools",
+   "section": "Agent SDK",
+   "description": "Define custom tools with the Claude Agent SDK's in-process MCP server so Claude can call your functions, hit your APIs, and perform domain-specific operations.",
+   "order": 150,
+   "file": "agent-sdk__custom-tools.md",
+   "locale": "zh-CN",
+   "words": 31167,
+   "hash": 1122213963,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Connect to external tools with MCP",
+   "slug": "agent-sdk/mcp",
+   "section": "Agent SDK",
+   "description": "Configure MCP servers to extend your agent with external tools. Covers transport types, tool search for large tool sets, authentication, and error handling.",
+   "order": 151,
+   "file": "agent-sdk__mcp.md",
+   "locale": "zh-CN",
+   "words": 22635,
+   "hash": 4284179330,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Scale to many tools with tool search",
+   "slug": "agent-sdk/tool-search",
+   "section": "Agent SDK",
+   "description": "Scale your agent to thousands of tools by discovering and loading only what's needed, on demand.",
+   "order": 152,
+   "file": "agent-sdk__tool-search.md",
+   "locale": "zh-CN",
+   "words": 7186,
+   "hash": 3231347007,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Subagents in the SDK",
+   "slug": "agent-sdk/subagents",
+   "section": "Agent SDK",
+   "description": "Define and invoke subagents to isolate context, run tasks in parallel, and apply specialized instructions in your Claude Agent SDK applications.",
+   "order": 153,
+   "file": "agent-sdk__subagents.md",
+   "locale": "zh-CN",
+   "words": 28107,
+   "hash": 3712658840,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Modifying system prompts",
+   "slug": "agent-sdk/modifying-system-prompts",
+   "section": "Agent SDK",
+   "description": "Choose between the `claude_code` preset and a custom system prompt, and customize behavior with CLAUDE.md, output styles, append, or a fully custom prompt.",
+   "order": 154,
+   "file": "agent-sdk__modifying-system-prompts.md",
+   "locale": "zh-CN",
+   "words": 15963,
+   "hash": 4069730124,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Extend agents with skills",
+   "slug": "agent-sdk/skills",
+   "section": "Agent SDK",
+   "description": "Control which skills Claude can invoke in Claude Agent SDK sessions, dispatch commands by name, and author skills your sessions discover",
+   "order": 155,
+   "file": "agent-sdk__skills.md",
+   "locale": "zh-CN",
+   "words": 9907,
+   "hash": 3183571980,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Plugins in the SDK",
+   "slug": "agent-sdk/plugins",
+   "section": "Agent SDK",
+   "description": "Load custom plugins to extend Claude Code with skills, agents, hooks, and MCP servers through the Agent SDK",
+   "order": 156,
+   "file": "agent-sdk__plugins.md",
+   "locale": "zh-CN",
+   "words": 10516,
+   "hash": 52058365,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Configure permissions",
+   "slug": "agent-sdk/permissions",
+   "section": "Agent SDK",
+   "description": "Control how your agent uses tools with permission modes, hooks, and declarative allow/deny rules.",
+   "order": 157,
+   "file": "agent-sdk__permissions.md",
+   "locale": "zh-CN",
+   "words": 12709,
+   "hash": 3865296168,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Intercept and control agent behavior with hooks",
+   "slug": "agent-sdk/hooks",
+   "section": "Agent SDK",
+   "description": "Intercept and customize agent behavior at key execution points with hooks",
+   "order": 158,
+   "file": "agent-sdk__hooks.md",
+   "locale": "zh-CN",
+   "words": 32029,
+   "hash": 2159859936,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Rewind file changes with checkpointing",
+   "slug": "agent-sdk/file-checkpointing",
+   "section": "Agent SDK",
+   "description": "Track file changes during agent sessions and restore files to any previous state",
+   "order": 159,
+   "file": "agent-sdk__file-checkpointing.md",
+   "locale": "zh-CN",
+   "words": 26289,
+   "hash": 1856548898,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Track cost and usage",
+   "slug": "agent-sdk/cost-tracking",
+   "section": "Agent SDK",
+   "description": "Learn how to track token usage, estimate costs, and configure prompt caching with the Claude Agent SDK.",
+   "order": 160,
+   "file": "agent-sdk__cost-tracking.md",
+   "locale": "zh-CN",
+   "words": 12956,
+   "hash": 1105009436,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Observability with OpenTelemetry",
+   "slug": "agent-sdk/observability",
+   "section": "Agent SDK",
+   "description": "Export traces, metrics, and events from the Agent SDK to your observability backend using OpenTelemetry.",
+   "order": 161,
+   "file": "agent-sdk__observability.md",
+   "locale": "zh-CN",
+   "words": 10821,
+   "hash": 491063824,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Track todos",
+   "slug": "agent-sdk/todo-tracking",
+   "section": "Agent SDK",
+   "description": "Track todos in Agent SDK sessions and render Claude's progress in your application from structured tool calls",
+   "order": 162,
+   "file": "agent-sdk__todo-tracking.md",
+   "locale": "zh-CN",
+   "words": 13798,
+   "hash": 1949765387,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Hosting the Agent SDK",
+   "slug": "agent-sdk/hosting",
+   "section": "Agent SDK",
+   "description": "Deploy the Agent SDK in production: subprocess architecture, session persistence, scaling, observability, and multi-tenant isolation for Docker, Kubernetes, and sandbox providers.",
+   "order": 163,
+   "file": "agent-sdk__hosting.md",
+   "locale": "zh-CN",
+   "words": 13776,
+   "hash": 739988547,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Securely deploying AI agents",
+   "slug": "agent-sdk/secure-deployment",
+   "section": "Agent SDK",
+   "description": "A guide to securing Claude Code and Agent SDK deployments with isolation, credential management, and network controls",
+   "order": 164,
+   "file": "agent-sdk__secure-deployment.md",
+   "locale": "zh-CN",
+   "words": 12705,
+   "hash": 2217936426,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Agent SDK reference - TypeScript",
+   "slug": "agent-sdk/typescript",
+   "section": "Agent SDK",
+   "description": "Complete API reference for the TypeScript Agent SDK, including all functions, types, and interfaces.",
+   "order": 165,
+   "file": "agent-sdk__typescript.md",
+   "locale": "zh-CN",
+   "words": 157526,
+   "hash": 767591507,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "TypeScript SDK V2 session API (removed)",
+   "slug": "agent-sdk/typescript-v2-preview",
+   "section": "Agent SDK",
+   "description": "Reference for the removed V2 TypeScript Agent SDK session API, with session-based send/stream patterns for multi-turn conversations.",
+   "order": 166,
+   "file": "agent-sdk__typescript-v2-preview.md",
+   "locale": "zh-CN",
+   "words": 10360,
+   "hash": 3544987439,
+   "updated": "2026-09-05"
+  },
+  {
+   "title": "Agent SDK reference - Python",
+   "slug": "agent-sdk/python",
+   "section": "Agent SDK",
+   "description": "Complete API reference for the Python Agent SDK, including all functions, types, and classes.",
+   "order": 167,
+   "file": "agent-sdk__python.md",
+   "locale": "zh-CN",
+   "words": 135826,
+   "hash": 1762208094,
+   "updated": "2026-09-05"
   },
   {
    "title": "What's new",
@@ -2029,8 +2029,8 @@
    "file": "whats-new__index.md",
    "locale": "zh-CN",
    "words": 6208,
-   "hash": 2218473773,
-   "updated": "2026-09-04"
+   "hash": 3091323937,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 34 · August 17–21, 2026",
@@ -2041,8 +2041,8 @@
    "file": "whats-new__2026-w34.md",
    "locale": "en",
    "words": 8420,
-   "hash": 203429127,
-   "updated": "2026-09-04"
+   "hash": 2042734969,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 33 · August 10–14, 2026",
@@ -2053,8 +2053,8 @@
    "file": "whats-new__2026-w33.md",
    "locale": "en",
    "words": 7542,
-   "hash": 1380563274,
-   "updated": "2026-09-04"
+   "hash": 1365668934,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 32 · August 3–7, 2026",
@@ -2065,8 +2065,8 @@
    "file": "whats-new__2026-w32.md",
    "locale": "en",
    "words": 8725,
-   "hash": 3707796475,
-   "updated": "2026-09-04"
+   "hash": 647628720,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 30 · July 20–24, 2026",
@@ -2077,8 +2077,8 @@
    "file": "whats-new__2026-w30.md",
    "locale": "en",
    "words": 6990,
-   "hash": 1351210331,
-   "updated": "2026-09-04"
+   "hash": 3331559996,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 29 · July 13–17, 2026",
@@ -2089,8 +2089,8 @@
    "file": "whats-new__2026-w29.md",
    "locale": "zh-CN",
    "words": 3836,
-   "hash": 643029828,
-   "updated": "2026-09-04"
+   "hash": 3631382994,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 28 · July 6–10, 2026",
@@ -2101,8 +2101,8 @@
    "file": "whats-new__2026-w28.md",
    "locale": "zh-CN",
    "words": 2935,
-   "hash": 586417329,
-   "updated": "2026-09-04"
+   "hash": 1207580555,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 27 · June 29 – July 3, 2026",
@@ -2113,8 +2113,8 @@
    "file": "whats-new__2026-w27.md",
    "locale": "zh-CN",
    "words": 4939,
-   "hash": 2052312172,
-   "updated": "2026-09-04"
+   "hash": 2137288595,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 26 · June 22–26, 2026",
@@ -2125,8 +2125,8 @@
    "file": "whats-new__2026-w26.md",
    "locale": "zh-CN",
    "words": 3064,
-   "hash": 1747999814,
-   "updated": "2026-09-04"
+   "hash": 2267737077,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 25 · June 15–19, 2026",
@@ -2137,8 +2137,8 @@
    "file": "whats-new__2026-w25.md",
    "locale": "zh-CN",
    "words": 3933,
-   "hash": 3857202479,
-   "updated": "2026-09-04"
+   "hash": 2354785683,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 24 · June 8–12, 2026",
@@ -2149,8 +2149,8 @@
    "file": "whats-new__2026-w24.md",
    "locale": "zh-CN",
    "words": 3655,
-   "hash": 3278206499,
-   "updated": "2026-09-04"
+   "hash": 578948595,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 23 · June 1–5, 2026",
@@ -2161,8 +2161,8 @@
    "file": "whats-new__2026-w23.md",
    "locale": "zh-CN",
    "words": 4898,
-   "hash": 812294772,
-   "updated": "2026-09-04"
+   "hash": 3503417787,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 22 · May 25–29, 2026",
@@ -2173,8 +2173,8 @@
    "file": "whats-new__2026-w22.md",
    "locale": "zh-CN",
    "words": 5738,
-   "hash": 1592938450,
-   "updated": "2026-09-04"
+   "hash": 3136086871,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 21 · May 18–22, 2026",
@@ -2185,8 +2185,8 @@
    "file": "whats-new__2026-w21.md",
    "locale": "zh-CN",
    "words": 2809,
-   "hash": 1011566521,
-   "updated": "2026-09-04"
+   "hash": 110121394,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 20 · May 11–15, 2026",
@@ -2197,8 +2197,8 @@
    "file": "whats-new__2026-w20.md",
    "locale": "zh-CN",
    "words": 5180,
-   "hash": 2605277267,
-   "updated": "2026-09-04"
+   "hash": 669834131,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 19 · May 4–8, 2026",
@@ -2209,8 +2209,8 @@
    "file": "whats-new__2026-w19.md",
    "locale": "zh-CN",
    "words": 3101,
-   "hash": 146277012,
-   "updated": "2026-09-04"
+   "hash": 683343938,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 18 · April 27 – May 1, 2026",
@@ -2221,8 +2221,8 @@
    "file": "whats-new__2026-w18.md",
    "locale": "zh-CN",
    "words": 4947,
-   "hash": 1869895805,
-   "updated": "2026-09-04"
+   "hash": 2341625487,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 17 · April 20–24, 2026",
@@ -2233,8 +2233,8 @@
    "file": "whats-new__2026-w17.md",
    "locale": "zh-CN",
    "words": 5647,
-   "hash": 2824475327,
-   "updated": "2026-09-04"
+   "hash": 3048667532,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 16 · April 13–17, 2026",
@@ -2245,8 +2245,8 @@
    "file": "whats-new__2026-w16.md",
    "locale": "zh-CN",
    "words": 6691,
-   "hash": 75577835,
-   "updated": "2026-09-04"
+   "hash": 3479589981,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 15 · April 6–10, 2026",
@@ -2257,8 +2257,8 @@
    "file": "whats-new__2026-w15.md",
    "locale": "zh-CN",
    "words": 5571,
-   "hash": 2315448659,
-   "updated": "2026-09-04"
+   "hash": 452294587,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 14 · March 30 – April 3, 2026",
@@ -2269,8 +2269,8 @@
    "file": "whats-new__2026-w14.md",
    "locale": "zh-CN",
    "words": 5978,
-   "hash": 2010042525,
-   "updated": "2026-09-04"
+   "hash": 2423865149,
+   "updated": "2026-09-05"
   },
   {
    "title": "Week 13 · March 23–27, 2026",
@@ -2281,8 +2281,8 @@
    "file": "whats-new__2026-w13.md",
    "locale": "zh-CN",
    "words": 6300,
-   "hash": 3546904264,
-   "updated": "2026-09-04"
+   "hash": 2009462873,
+   "updated": "2026-09-05"
   },
   {
    "title": "Legal and compliance",
@@ -2293,8 +2293,8 @@
    "file": "legal-and-compliance.md",
    "locale": "zh-CN",
    "words": 2467,
-   "hash": 398946761,
-   "updated": "2026-09-04"
+   "hash": 2875348767,
+   "updated": "2026-09-05"
   }
  ]
 }
